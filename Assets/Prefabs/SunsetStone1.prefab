@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &189518115573195319
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5037415889583099023, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.34217867
+      objectReference: {fileID: 0}
+    - target: {fileID: 5037415889583099023, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.61774284
+      objectReference: {fileID: 0}
+    - target: {fileID: 5037415889583099023, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_Color.r
+      value: 0.96981126
+      objectReference: {fileID: 0}
+    - target: {fileID: 5037415889583099023, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5037415889583099023, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1856074403
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 41.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5157271053026433810, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7179711126383189439, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}
+      propertyPath: m_Name
+      value: SunsetStone1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 39449a5c063591e459cc09e9d4cd057a, type: 3}

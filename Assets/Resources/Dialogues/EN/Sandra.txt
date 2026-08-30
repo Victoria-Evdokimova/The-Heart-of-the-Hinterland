@@ -1,0 +1,19 @@
+[START] 
+V|Sandra Sanchez|Jack, thanks for all your help! Finally, things are calm in American Fork. But we want to get to the bottom of all this.
+P|Jack Wood|I've been thinkin' the same thing. Is there anyone who might shed some light on this?
+V|Sandra Sanchez|Maybe the miller who lives on the edge of town. Folks say all sorts of things about him…
+P|Jack Wood|Reckon it's worth payin' him a visit. But it's been a while since I been in these parts… How do I get to his place?
+V|Sandra Sanchez|Take this map – it shows where the miller's house is.
+P|Jack Wood|Much obliged!
+
+[REMINDER]
+V|Sandra Sanchez|Howdy, Jack! So, did you go see the miller?
+P|Jack Wood|I'm headin' over now. I held up a bit to make sure all the monsters were dealt with and the town's safe.
+V|Sandra Sanchez|That's great news! We'll be waitin' eager-like for your return from the miller.
+P|Jack Wood|Alright, see you soon!
+
+
+
+
+
+ 

@@ -1,0 +1,33 @@
+[START] 
+V|Steve Jenkins|Is that really Jack come callin'? Howdy, ain't seen you in a coon's age!
+P|Jack Wood|Sure ain't. Howdy, Steve!
+V|Steve Jenkins|You here on business?
+P|Jack Wood|Yeah… They say you know where this evil come from. We need to wipe it out for good.
+V|Steve Jenkins|I'll tell you what I know. It's all about William Johnson. You probably remember him – you two grew up together.
+P|Jack Wood|Sure do. He was a strange one, never buddyin' up with anybody.
+V|Steve Jenkins|Yeah. Well, he got hooked on a book called "Encyclopedia of Creatures of the Dark Kingdom" – all about the underworld and the monsters livin' there.
+P|Jack Wood|So what?
+V|Steve Jenkins|He got plumb obsessed with all that evil stuff.  
+P|Jack Wood|What'd he do?
+V|Steve Jenkins|When he got older, he made some excuse and lit out of town lookin' for monsters.
+P|Jack Wood|But where'd he go?
+V|Steve Jenkins|That book had a map in it, markin' the spot where the underworld and the Dark Kingdom are.
+P|Jack Wood|And William actually believed it exists?
+V|Steve Jenkins|I don't know… But I reckon he decided to try and find that place…
+P|Jack Wood|And he never came back?
+V|Steve Jenkins|Nope. I'm afraid he fell under the evil's sway. All that's happenin' is his doin'.
+P|Jack Wood|We gotta save him and put a stop to this evil!
+V|Steve Jenkins|You're right. Only problem is, ain't nobody been brave enough to try.
+P|Jack Wood|I'll give it a shot! Now I know how to beat the monsters. I'll save William too.
+V|Steve Jenkins|You're a brave and good man, Jack! Ain't nobody else can help us all.
+P|Jack Wood|Thanks for the kind words. I want peace back in our town.
+V|Steve Jenkins|Well then, give it your best. Here, take this sharp sword – you're plumb unarmed otherwise. With this, you can take on any evil critter!
+P|Jack Wood|Thanks! Just what I needed!
+V|Steve Jenkins|Be careful. We'll be waitin' for you! Good luck!
+
+[REMINDER]
+V|Steve Jenkins|How's your venture goin', Jack?
+P|Jack Wood|I'm all geared up and fixin' to hit the trail.
+V|Steve Jenkins|Attaboy! But hurry up, before the evil stirs up again.
+P|Jack Wood|I'm on my way! Wait for me to come back with a victory!
+V|Steve Jenkins|That's the right spirit, Jack! That's how a hero talks. Good luck in the fight!

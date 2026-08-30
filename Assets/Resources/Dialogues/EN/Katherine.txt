@@ -1,0 +1,20 @@
+[START] 
+V|Katherine Jones|Jack, thank you for cleanin' up the town, but the monsters ain't just here.
+P|Jack Wood|So they're gonna come back?
+V|Katherine Jones|Sure as shootin'. John says these critters come from the cemetery nearby.
+P|Jack Wood|How do we put a stop to that?
+V|Katherine Jones|Like all evil things, monsters can't stand holy water.
+P|Jack Wood|Then that's what'll do 'em in!
+V|Katherine Jones|Here's a jug of holy water. Pour it over the statue at the cemetery, and we'll be prayin' for you!
+P|Jack Wood|Alright, I'll head out right now.
+
+[REMINDER]
+V|Katherine Jones|How's it goin', Jack? Did you do it?
+P|Jack Wood|Not yet. I checked with John about the best time to go. Now's the right moment.
+V|Katherine Jones|That's great! We're hopin' for the best, and we believe you can do it!
+P|Jack Wood|Thanks! With your support, I'll get 'er done!
+
+[COMPLETE]
+V|Katherine Jones|Any news, Jack?
+P|Jack Wood|Did just what you said. I think it worked, though it wasn't easy.
+V|Katherine Jones|Thank you, Jack! You're our savior! Our prayers paid off.

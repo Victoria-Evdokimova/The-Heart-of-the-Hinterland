@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - QuestGiver
+  - CheckPoint
+  - Monster
+  - Statue
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Items
+  - Ground
+  - NPC
+  - Monsters
+  - Fireball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parallax
+    uniqueID: 3954906885
+    locked: 0
+  - name: Background
+    uniqueID: 4035908471
+    locked: 0
+  - name: Items1
+    uniqueID: 1856074403
+    locked: 0
+  - name: Houses
+    uniqueID: 2721732787
+    locked: 0
+  - name: Shadows
+    uniqueID: 3128659511
+    locked: 0
+  - name: Grass
+    uniqueID: 1591176065
+    locked: 0
+  - name: Ground
+    uniqueID: 3592886811
+    locked: 0
+  - name: Player
+    uniqueID: 3450564759
+    locked: 0
+  - name: Items2
+    uniqueID: 784854061
+    locked: 0
+  m_RenderingLayers:
+  - Default

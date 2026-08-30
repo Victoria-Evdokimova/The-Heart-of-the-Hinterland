@@ -1,0 +1,27 @@
+[START]
+
+V|John Brown|Well, look who it is! Howdy, Jack!
+P|Jack Wood|Howdy, partner! Good to see you.
+V|John Brown|You sure picked a bad time to come back home…
+P|Jack Wood|What's going on?
+V|John Brown|There's evil creepin' all around these parts, threatenin' the town, and there ain't nobody to protect us. Maybe you could lend a hand?
+P|Jack Wood|Reckon I can give it a try…
+V|John Brown|Much obliged, Jack! Take this axe – you'll need it against them monsters.
+
+[REMINDER]
+
+V|John Brown|So? Did you put them varmints down yet?
+P|Jack Wood|Not yet… There's too many of 'em… Don't rightly know if I can manage.
+V|John Brown|I got faith in you, Jack! Ain't no other choice.
+P|Jack Wood|Yeah, there's no turnin' back now – either we beat 'em, or they beat us.
+V|John Brown|We're countin' on you! Good luck, Jack!
+
+
+
+[COMPLETE]
+
+V|John Brown|What's the word, Jack? Did you manage to take down them critters?
+P|Jack Wood|Yeah. It was a tough scrape, but I reckon I did it.
+V|John Brown|Much obliged! I sure hope life in town can get peaceful again. Say, what about that axe I gave you?
+P|Jack Wood|It busted up in the fight, so I tossed it. Hope it wasn't your last one.
+V|John Brown|That's small potatoes. But dang, Jack, you sure carved 'em up good!
